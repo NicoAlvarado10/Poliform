@@ -5,13 +5,15 @@ import 'remixicon/fonts/remixicon.css';
 
 const montserrat = Montserrat({
   weight: ["400", "500", "600", "700"],
+  subsets: ["latin"], 
   variable: "--font-montserrat",
-}) as any;
+});
 
 const poppins = Poppins({
   weight: ["400", "500", "600", "700"],
+  subsets: ["latin"], 
   variable: "--font-poppins",
-}) as any;
+});
 
 export const metadata: Metadata = {
   title: "Poliform - Contemporary Interior Design & Architecture",

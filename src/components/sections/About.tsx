@@ -55,7 +55,8 @@ export const About = () => {
               transition={{ delay: 0.4, duration: 0.6, ease: 'easeOut' }}
               viewport={{ once: false}}
             >
-              Discover Poliform's 2024 preview, featuring sofas, chairs, and armchairs embodying diverse lifestyle concepts, alongside striking tables, coffe tables, and sideboards.
+             Discover Poliform&apos;s 2024 preview, featuring sofas, chairs, and armchairs embodying diverse lifestyle concepts, alongside striking tables, coffe tables, and sideboards.
+
             </motion.p>
 
             <motion.a
